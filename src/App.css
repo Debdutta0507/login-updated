@@ -1,0 +1,31 @@
+body {
+  background-color: #fafafa;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  align-items: center;
+  height: 100vh;
+}
+.text-link {
+  color:darkblue;
+  text-decoration: inherit;
+}
+
+.box {
+  border: 1px solid #dfdfdf;
+  background-color: #fff;
+  padding: 20px;
+}
+.center{
+  display:flex;
+  justify-content: flex-start;
+
+}
+.center1{
+  margin-top: 20px;
+  display:flex;
+  align-items:baseline;
+  justify-content: center;
+
+}
